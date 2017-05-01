@@ -1,3 +1,4 @@
 added by user1
 user 1 changed this
-user 1 changed user 2 line
+user 1 changed user 2 line - updated this too
+new line changes by user1
